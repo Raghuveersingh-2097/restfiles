@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Sep 24 19:29:41 IST 2020
+tomcat-jasper-9.0.38-sources.jar>central=
+tomcat-jasper-9.0.38.jar>central=
+tomcat-jasper-9.0.38.pom>central=

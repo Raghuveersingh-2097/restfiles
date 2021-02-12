@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Sep 24 14:12:24 IST 2020
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1600936944275
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.springframework\:spring-web\:jar\:5.0.9.RELEASE from/to central (https\://repo.maven.apache.org/maven2)\: The operation was cancelled.
